@@ -7,6 +7,8 @@ HabitMate is a simple Java + PostgreSQL console application that helps users tra
 - View all habits with details
 - Delete a habit using habit ID
 - Simple menu-based console interface
+- PostgreSQL DataBase Integration
+- Timestamps ('created_at')
 
 ## 🛠️ Tech Stack
 - Java
@@ -19,5 +21,10 @@ HabitMate is a simple Java + PostgreSQL console application that helps users tra
 2. Configure PostgreSQL credentials in `DBConnect.java`
 3. Run the SQL file in `sql/` folder to create the `habits` table
 4. Run `HabitTracker.java` to start the console app
+
+## 🧑‍💻 Author
+
+**Anjali Mina (anjali0614)**  
+GitHub: [https://github.com/<anjali0614>](https://github.com/<anjali0614>)
 
 ## 📸 Sample Output
